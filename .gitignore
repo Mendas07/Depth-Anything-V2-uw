@@ -1,0 +1,16 @@
+ # Ambiente virtual
+venv/
+
+# Datasets e saídas
+datasets/
+outputs/
+checkpoints/
+
+
+# Cache Python
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Exemplos locais
+images exemplo/
